@@ -1,5 +1,4 @@
-To use the Polar Compiler, please download the file polar_compiler.pyc
-Users are suggested to run polar_compiler.pyc with Python 3.5.5
+To use the Polar Compiler, please download the file polar_compiler_xx.pyc according to the python version.
 
 To generate architectrues represented by formula F1(N,M) or F2(N,M), the code lenght N should be larger than 4, and the parallism M should be larger than 2 and smaller than N. Both N and M should be powers of 2.
 
